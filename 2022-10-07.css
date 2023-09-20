@@ -26,6 +26,11 @@ li a {
 li a:hover {
     background-color: rgba(0, 97, 0, 1.0);
 }
+
+img{
+    max-height: 200px;
+}
+
 section {
     border: 1px solid rgba(0, 97, 0, 1.0);
     margin: 2vh;
